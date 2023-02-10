@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B4F3F052996330C0088F546 /* TripDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B4F3F042996330C0088F546 /* TripDetailView.swift */; };
 		F43AF48828ACD66200214BDA /* SwiftUICarouselApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43AF48728ACD66200214BDA /* SwiftUICarouselApp.swift */; };
 		F43AF48A28ACD66200214BDA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43AF48928ACD66200214BDA /* ContentView.swift */; };
 		F43AF48C28ACD66200214BDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F43AF48B28ACD66200214BDA /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B4F3F042996330C0088F546 /* TripDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripDetailView.swift; sourceTree = "<group>"; };
 		F43AF48428ACD66200214BDA /* SwiftUICarousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUICarousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F43AF48728ACD66200214BDA /* SwiftUICarouselApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICarouselApp.swift; sourceTree = "<group>"; };
 		F43AF48928ACD66200214BDA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			children = (
 				F43AF48928ACD66200214BDA /* ContentView.swift */,
 				F43AF49928ACD69C00214BDA /* TripCardView.swift */,
+				0B4F3F042996330C0088F546 /* TripDetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B4F3F052996330C0088F546 /* TripDetailView.swift in Sources */,
 				F43AF49828ACD67C00214BDA /* Trip.swift in Sources */,
 				F43AF49A28ACD69C00214BDA /* TripCardView.swift in Sources */,
 				F43AF48A28ACD66200214BDA /* ContentView.swift in Sources */,
